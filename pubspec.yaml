@@ -1,0 +1,30 @@
+name: coffee_shop_app
+description: Coffee shop management app for CRUD assignments.
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.10.8
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.8
+  provider: ^6.1.2
+  http: ^1.2.2
+  sqflite: ^2.3.3
+  path: ^1.9.0
+  go_router: ^14.6.2
+  google_fonts: ^6.2.1
+  cached_network_image: ^3.4.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true
