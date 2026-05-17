@@ -1,10 +1,19 @@
+#ID
+
+Name: Yohannes Gumata
+
+ID: UGR/4852/15
+
+Section: 2
+
+
 # Coffee Shop App
 
-A Flutter-based coffee shop management application designed for seamless menu administration. Built with `provider`, `http`, `sqflite`, and `go_router`, this app offers a robust solution for tracking coffee offerings with a premium user experience.
+A Flutter-based coffee shop management application designed for seamless menu administration. Built with `provider`, `http`, and `go_router`, this app offers a robust solution for tracking coffee offerings with a premium user experience.
 
 ## Description
 
-The Coffee Shop App is a dedicated tool for coffee enthusiasts and shop owners to manage their beverage catalog. It allows users to browse a dynamic menu, search for specific items, and maintain a personalized list of favorites. With a focus on performance and reliability, the app utilizes SQLite for local data persistence, ensuring that your menu is accessible even without an internet connection. The interface is crafted with Google Fonts and modern design principles to provide a clean, professional aesthetic.
+The Coffee Shop App is a dedicated tool for shop owners to manage their beverage catalog. It allows users to browse a dynamic menu, search for specific items, and maintain a personalized list of favorites. With a focus on performance and reliability.
 
 ## Application Flow (CRUD Operations)
 
